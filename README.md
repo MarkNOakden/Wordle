@@ -1,4 +1,5 @@
 # Wordle Analysis Functions
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkNOakden/Wordle/HEAD)
 
 The main motivation for this is to share the code I use to produce my "Word Elimination Progress" plots.
 
